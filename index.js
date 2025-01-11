@@ -51,7 +51,7 @@ app.use(Adrouter)
 app.use(profileRouter)
 // app.use(myrouter)
 // app.use(profileRouter)
-// app.use(docd)
+
 
 
 
